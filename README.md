@@ -1,6 +1,6 @@
 # Pokedex App
 
-A simple **React Native Pokedex app** that lets you explore different Pokémon, search for Pokémon, and view their information, types, stats, and other details.
+A simple **React Native Pokedex app** that will let you explore different Pokémon, search for Pokémon, and view their information, types, stats, and other details.
 
 
 ## Getting Started
